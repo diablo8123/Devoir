@@ -21,6 +21,7 @@ h1{
 .p3 {
       text-align: center;
   border: 4px double black;
+    font-size: 200%;
 } 
 img{
     position: none;
