@@ -1,0 +1,55 @@
+
+
+
+
+
+h1{
+    color: black;
+    
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+    body{
+       background-image: url("smoothbg.jpg");
+       background-size: cover;
+       background-blend-mode: darken;
+       background-repeat: no-repeat;
+       background-attachment: fixed;
+    }
+
+.p3 {
+      text-align: center;
+  border: 4px double black;
+} 
+img{
+    position: none;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 60px;
+    width: 400px;
+    margin-left: 75px;
+}
+.p1{
+   margin-left: 283px;
+   font-size: 200%;
+}
+
+ul{
+     display: inline; 
+     text-align: center;
+}
+p span{
+    border: 2px solid black;
+}
+.p6{
+    position:none;
+    margin-left: 900px;
+     font-size: 200%;
+}
+
+h4{
+    font-size:135%;
+    text-align: center;
+   
+}
